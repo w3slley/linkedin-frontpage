@@ -16,3 +16,11 @@ Don't forget how to insert videos on html5:
 This is how you create a border on mouse hover without dislocating nearby elements:
 
 box-shadow: inset 0px 0px 0px 1px #2977c9;
+
+Don't forget the following tag so that it can work on mobile phones:
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+I think I'm done for today. I'll try later to finish the area section later. But in general the project is almost done.
+
+
