@@ -2,3 +2,17 @@
 I started this project today just to keep my front-end abilities sharp and also to learn new things. I thought the linkedin website was really dope and I wanted to create it from scratch.
 
 I implementet partially the top part of the website. To make the top image from dislocationg the container1 class, I hid the scroll bar in the horizontal with overflow-x: hidden.
+
+20/08/2019
+So far I completed most of the functionalities of the website for desktop. However I still have one container to do, the grid system to fix and the make one of the images to stay still while the width of the page decreases.
+
+Don't forget how to insert videos on html5:
+
+<iframe width="420" height="315"src="https://www.youtube.com/embed/husM7ItmbFU">
+</iframe>
+
+1) To fix the problem I was having with the second side image I used left: 20%, which did what I wanted (while decreasing the size of the screen it doesn't stay on top of the left div, just like the linkedin website).
+
+This is how you create a border on mouse hover without dislocating nearby elements:
+
+box-shadow: inset 0px 0px 0px 1px #2977c9;
