@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>LinkedIn</title>
      <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="css/main.css">
      <link href="https://fonts.googleapis.com/css?family=Nixie+One|Abel|Roboto&display=swap" rel="stylesheet">
   </head>
   <body>
@@ -20,7 +20,10 @@
       <div class="container1">
         <div class="top">
           <p>Welcome to your professional community</p>
-          <input type="search" name="search" placeholder="Find jobs, people and more">
+          <div class="search-input">
+            <img src="images/search.svg">
+            <input type="search" name="search" placeholder="Find jobs, people and more">
+          </div>
         </div>
         <img class="top-img" src="images/img0.svg" alt="">
       </div>
@@ -32,18 +35,22 @@
         <div class="right">
           <p>SUGGESTED SEARCHES</p>
           <div class="areas">
-            <a href="#">Sales</a>
-            <a href="#">Engineering</a>
-            <a href="#">Business Development</a>
-            <a href="#">Finance</a>
-            <a href="#">Healthcare Service</a>
-            <a href="#">Marketing</a>
-            <a href="#">Information Technology</a>
-            <a href="#">Administrative</a>
-            <a href="#">Human Resources</a>
-            <a href="#">Operations</a>
-          </div><br>
-          <a href="#" class="more">Show more</a>
+            <ul>
+              <li><a href="#">Sales</a></li>
+              <li><a href="#">Engineering</a></li>
+              <li><a href="#">Business Development</a></li>
+              <li><a href="#">Finance</a></li>
+              <li><a href="#">Healthcare Service</a></li>
+              <li><a href="#">Marketing</a></li>
+              <li><a href="#">Information Technology</a></li>
+              <li><a href="#">Administrative</a></li>
+              <li><a href="#">Human Resources</a></li>
+              <li><a href="#">Operations</a></li>
+            </ul>
+          </div>
+          <a href="#" class="more">Show more <img src="images/show.svg"> </a>
+          <a href="#" class="less">Show less<img src="images/show.svg"> </a>
+
         </div>
       </div>
 
@@ -64,7 +71,10 @@
         <div class="right">
           <img src="images/img3.svg" alt="">
           <p>Learn the skills you need to succeed</p>
+          <div class="topic">
+            <a href="#">Choose a topic to learn about <img style="width: 19px" src="images/show.svg"></a>
 
+          </div>
         </div>
       </div>
 

@@ -1,9 +1,1 @@
-<svg id="svg-source" width="24px" height="24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-  <defs id="ui-icons">
-    <svg id="search-icon" viewBox="0 0 24 24" width="24px" height="24px" x="0" y="0" preserveAspectRatio="xMinYMin meet">
-      <path d="M21,19.67l-5.44-5.44a7,7,0,1,0-1.33,1.33L19.67,21ZM10,15.13A5.13,5.13,0,1,1,15.13,10,5.13,5.13,0,0,1,10,15.13Z" class="large-icon" style="fill: currentColor" id="search-icon-large"/>
-    </svg>
-  </defs>
-
-  <use x="0" y="0" xlink:href="#search-icon" style="color: #7a8b98;" width="24px" height="24px"/>
-</svg>
+<svg id="Layer_1" height="512" viewBox="0 0 128 128" width="512" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1"><path d="m69.6 29.455a28.386 28.386 0 1 0 8.314 20.072 28.2 28.2 0 0 0 -8.314-20.072zm-2.475 37.67a24.875 24.875 0 1 1 0-35.2 24.915 24.915 0 0 1 0 35.2z"/><path d="m112.356 104.948-30.543-30.548a1.8 1.8 0 0 0 -2.475 0l-1.23 1.23-2.33-2.33a35.417 35.417 0 1 0 -2.478 2.479l2.33 2.33-1.23 1.23a1.749 1.749 0 0 0 0 2.475l30.543 30.543a5.239 5.239 0 0 0 7.409 0 5.238 5.238 0 0 0 0-7.408zm-85.398-32.848a31.919 31.919 0 1 1 22.57 9.349 31.712 31.712 0 0 1 -22.57-9.349zm82.924 37.784a1.779 1.779 0 0 1 -2.458 0l-29.307-29.308 2.459-2.459 29.306 29.306a1.738 1.738 0 0 1 0 2.458z"/><path d="m54.855 29.644a20.6 20.6 0 0 0 -25.211 14.556 1.75 1.75 0 1 0 3.381.906 17.1 17.1 0 0 1 20.924-12.082 1.75 1.75 0 1 0 .906-3.381z"/></svg>

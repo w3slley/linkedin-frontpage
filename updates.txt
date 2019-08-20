@@ -23,4 +23,12 @@ Don't forget the following tag so that it can work on mobile phones:
 
 I think I'm done for today. I'll try later to finish the area section later. But in general the project is almost done.
 
+2)Finished the first implementetion of the mobile version. I'm still having problems with the horizontal overflow and I have to fix that.
+3)Implemented the suggested searches feature. I used an UL and applied flexbox to it. The most important part however was the flexbox-wrap: wrap. It allows the li items to go to the next line.
+4)Implemented the search input feature. I didn't do the javascript part though.
+
+THINGS I NEED TO DO:
+
+1)Implement search input design with Javascript
+
 
