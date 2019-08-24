@@ -29,6 +29,6 @@ I think I'm done for today. I'll try later to finish the area section later. But
 
 THINGS I NEED TO DO:
 
-1)Implement search input design using Javascript.
+1)Implement search input design using Javascript...
 
 
